@@ -1,0 +1,62 @@
+[black] [text-align=center] [fill]
+
+-- [left]
+Línux Básico
+
+--
+Introdução
+Aplicações
+Instalação
+
+--
+Introdução
+
+--
+Aplicações
+
+--
+Navegadores
+
+-- [top-right] [screenshots/iceweasel.png]
+Firefox
+(ou iceweasel)
+
+-- [bottom] [screenshots/chromium.png]
+Google Chrome
+(ou chromium)
+
+-- [screenshots/epiphany.png]
+Epiphany
+(padrão do gnome)
+
+--
+Editores de texto
+
+-- [screenshots/gedit.png]
+gedit
+(padrão do gnome)
+
+-- [screenshots/vim.png]
+vim
+
+--
+Produtividade
+
+-- [screenshots/openoffice.png] [bottom]
+LibreOffice
+(era OpenOffice e BrOffice)
+
+-- [screenshots/calc.png]
+LibreOffice Calc
+(planilhas)
+
+-- [screenshots/impress.png]
+LibreOffice Impress
+(apresentação)
+
+-- [screenshots/writer.png]
+LibreOffice Writer
+(edição de texto)
+
+--
+Instalação
