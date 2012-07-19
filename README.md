@@ -1,4 +1,9 @@
-linuxbasico
+Linux Básico
 ===========
 
-Palestra de Linux Desktop peara a Campus Party Recif
+Palestra de Linux Desktop para a Campus Party Recife
+
+Palestrantes
+ - Adriano Melo
+ - Thiago Figueredo
+ - Wesley Davison
