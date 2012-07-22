@@ -1,15 +1,106 @@
-[black] [text-align=center] [fill]
+[black] [text-align=center] [fill] [font=Monospace 50px]
 
--- [left]
-Línux Básico
+-- [images/penguin.jpg]
+<span size="large">Línux Desktop</span>
+<span size="xx-small">Campus Party Recife</span>
 
 --
-Introdução
+Palestrantes
+
+--
+<span size="xx-large">Adriano Melo</span>
+Engenheiro de software do Instituto Nokia de Tecnologia
+Mestrando em inteligência artificial pela UFPE
+
+--
+<span size="xx-large">Thiago Figueredo</span>
+Engenheiro de software do Instituto Nokia de Tecnologia
+Mestrado em sistemas embarcados pela UFPE
+
+--
+<span size="xx-large">Wesley Davison</span>
+Pesquisador do grupo de pesquisa em redes e telecomunicações da UFPE
+Mestrando em redes multigigabit pela UFPE
+
+--
+<span size="large">Agenda</span>
+
+Quem o utiliza?
+O que é?
 Aplicações
 Instalação
 
 --
-Introdução
+Quem o utiliza?
+
+--
+Google
+
+-- [images/Google1998.png] [bottom]
+Linux é estratégico para
+o Google desde a sua criação.
+
+-- [images/android.png] [bottom]
+Sistema operacional para celulares e tablets,
+está com 61% do market share nos EU [0].
+
+-- [screenshots/chromiumos.png]
+<span size="x-large">Chromium OS</span>
+
+Sistema operacional baseado no Ubuntu.
+já está no mercado (chromebook).
+
+-- [screenshots/gsoc.png]
+Google é uma das empresas que mais
+contribui para projetos de código aberto
+
+--
+Facebook
+
+-- [screenshots/facebook.png]
+Utiliza como base as tecnologias
+linux, apache, PHP e MySQL (LAMP)
+
+--
+IBM
+
+-- [images/sequoia.jpg]
+<span size="x-large">Sequoia, BlueGene/Q</span>
+
+Computador mais rápido do mundo,
+possui 1.572.864 de núcleos! [1]
+
+(91.8% dos 500 melhores
+computadores do mundo usam linux)
+
+--
+Nokia
+
+-- [images/nokian9.jpg]
+<span size="x-large">Meego e Maemo</span>
+
+Sistemas operacionais voltados para
+os dispositivos da Nokia
+
+(os projetos foram descontinuados)
+
+--
+<span size="x-large">Uso pessoal</span>
+
+Está com 5% do market share (Junho, 2012) [2]
+
+--
+<span size="x-large">Servidores</span>
+
+Está com 60% do market share (2009) [3]
+
+--
+O que é?
+
+--
+"Sistema operacional completo e 100% livre." 
+
+-- [images/softwarestack2.png] [fit]
 
 --
 Aplicações
@@ -66,3 +157,16 @@ LibreOffice Writer
 
 --
 Instalação
+
+--
+Referências
+
+--
+[0] - http://www.droid-life.com/2012/05/07/androids-market-share-balloons-to-61-in-the-u-s-during-q1-ios-drops-to-29/
+
+[1] - http://www.top500.org/list/2012/06/100
+
+[2] - http://www.w3schools.com/browsers/browsers_os.asp
+
+[3] - http://www.pcworld.com/businesscenter/article/151568/ballmer_still_searching_for_an_answer_to_google.html
+

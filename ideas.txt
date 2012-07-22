@@ -1,0 +1,31 @@
+incluir agenda
+system iii & v family
+ - origem do linux
+sistemas de arquivos
+estrutura de diretórios
+bootloader
+device drivers
+desenvolvimento
+ - frameworks de desenvolvimento
+  - qt
+  - gtk
+devices
+ - super computadores
+ - celulares
+ - tablets
+ - notebooks e pcs
+ - sistemas embarcados
+  - roteadores
+  - raspberry pi
+kernel
+ - Monolithic / Microkernel 
+ - Dynamic Modules support
+ - Kernel threading
+ - Multi-threaded application support
+ - Preemptive kernel
+ - Multi-processor
+ - File system
+ - Virtual memory
+ - User Space/Kernel Space 
+ - Shared Library
+ - Multistack networking including IPv4/IPv6
