@@ -23,12 +23,21 @@ Pesquisador do grupo de pesquisa em redes e telecomunicações da UFPE
 Mestrando em redes multigigabit pela UFPE
 
 --
-<span size="large">Agenda</span>
-
-Quem o utiliza?
 O que é?
+Quem o utiliza?
 Aplicações
 Instalação
+
+--
+O que é?
+
+--
+Linux é um clone do sistema operacional Unix
+escrito a partir do zero por Linus Torvalds
+com a ajuda de uma equipe de hackers
+através da internet [4].
+
+-- [images/softwarestack2.png] [fit]
 
 --
 Quem o utiliza?
@@ -93,14 +102,6 @@ Está com 5% do market share (Junho, 2012) [2]
 <span size="x-large">Servidores</span>
 
 Está com 60% do market share (2009) [3]
-
---
-O que é?
-
---
-"Sistema operacional completo e 100% livre." 
-
--- [images/softwarestack2.png] [fit]
 
 --
 Aplicações
@@ -170,3 +171,4 @@ Referências
 
 [3] - http://www.pcworld.com/businesscenter/article/151568/ballmer_still_searching_for_an_answer_to_google.html
 
+[4] - http://www.kernel.org/
