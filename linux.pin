@@ -1,4 +1,4 @@
-[black] [text-align=center] [fill] [font=Monospace 50px]
+[black] [text-align=center] [fill] [font=Marker Felt 50px] [stage-color=#000000]
 
 -- [images/penguin.jpg]
 <span size="large">Línux Desktop</span>
@@ -37,7 +37,28 @@ escrito a partir do zero por Linus Torvalds
 com a ajuda de uma equipe de hackers
 através da internet [4].
 
--- [images/softwarestack2.png] [fit]
+-- [images/linuxemail.png] [unscaled] [bottom]
+anúncio do linux kernel
+
+-- [images/softwarestack2.png] [unscaled] [top]
+arquitetura
+
+-- [images/linuxkernelmap.png] [font=40px]
+linux kernel
+
+--
+<span size="x-large">GNU</span>
+
+GNU's Not Unix
+
+--
+sistema operacional que só utiliza programas
+desenvolvidos pela GNU e licenciados sob a GPL [5].
+
+-- [images/gnu.png] [unscaled]
+
+-- [images/gnucmd.png] [unscaled]
+projetos
 
 --
 Quem o utiliza?
@@ -59,9 +80,13 @@ está com 61% do market share nos EU [0].
 Sistema operacional baseado no Ubuntu.
 já está no mercado (chromebook).
 
--- [screenshots/gsoc.png]
-Google é uma das empresas que mais
-contribui para projetos de código aberto
+--
+Mozilla
+
+-- [images/firefoxos.jpg]
+<span size="x-large">Firefox OS</span>
+
+(era boot to gecko)
 
 --
 Facebook
@@ -172,3 +197,5 @@ Referências
 [3] - http://www.pcworld.com/businesscenter/article/151568/ballmer_still_searching_for_an_answer_to_google.html
 
 [4] - http://www.kernel.org/
+
+[5] - http://www.gnu.org/gnu/manifesto.html
