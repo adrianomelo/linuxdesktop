@@ -15,7 +15,7 @@ Mestrando em inteligência artificial pela UFPE
 --
 <span size="xx-large">Thiago Figueredo</span>
 Engenheiro de software do Instituto Nokia de Tecnologia
-Mestrado em sistemas embarcados pela UFPE
+Meste em sistemas embarcados pela UFPE
 
 --
 <span size="xx-large">Wesley Davison</span>
@@ -183,6 +183,98 @@ LibreOffice Writer
 
 --
 Instalação
+
+--
+Qual distribuição escolher?
+
+--
+<span size="x-large">distribuição GNU/Linux</span>
+sistema operacional mantido pela comunidade ou
+empresa, utiliza o linux kernel e as ferramentas da GNU
+como softwares básicos.
+
+-- [images/distribution.png] [unscaled]
+
+-- [images/debian.png]
+<span size="x-large">debian</span>
+"The universal operating system"
+
+-- [images/debian2.png] [fit]
+Debian Squeeze
+
+-- [images/fedora.jpg]
+<span size="x-large">fedora</span>
+“freedom . friends . features . first”
+
+-- [images/fedora17.jpg] [fit]
+Fedora 17
+
+-- [images/ubuntu.jpg]
+<span size="x-large">Ubuntu</span>
+"Linux for human beings"
+
+-- [images/ubuntu.png] [fit]
+Ubuntu 12.04 LTS
+
+--
+estrutura de diretórios
+
+--
+<span size="x-large">/</span>
+diretório raiz do sistema de arquivos
+
+--
+<span size="x-large">/home</span>
+diretório que contém os arquivos dos usuários
+
+--
+<span size="x-large">/etc</span>
+diretório com os arquivos de configuração dos programas
+
+--
+<span size="x-large">/usr</span>
+contém diretórios com comandos, bibliotecas, manuais,
+jogos, headers de programas...
+
+--
+<span size="x-large">/boot</span>
+arquivos usados pelo boot loader
+
+--
+<span size="x-large">/dev</span>
+dispositivos de disco, portas seriais, cdrom, webcam, ...
+
+--
+<span size="x-large">/var</span>
+contém arquivos que mudam constantemente,
+por exemplo, os logs de sistema.
+
+--
+<span size="x-large">sistema de arquivos</span>
+meio de armazenamento de arquivos no disco. é
+composto por nomes de arquivos, meta-dados, estrutura
+hierárquica e controle de acesso.
+
+--
+<span size="x-large">ext3</span>
+•sistema de arquivos mais usado no linux
+•suporta arquivos entre 2GiB e 2TiB (a
+depender do tamanho do bloco)
+•até 32.000 diretórios
+•suporta estampas de tempo até 2038
+•precisão em segundos
+
+--
+<span size="x-large">ext4</span>
+•suporta arquivos de até 16 TiB
+•ilimitado número de diretórios
+•suporta estampas de tempo até o ano 2514
+•precisão em nanosegundos
+
+--
+<span size="x-large">swap</span>
+memória virtual usada para fazer paginação
+
 
 --
 Referências
