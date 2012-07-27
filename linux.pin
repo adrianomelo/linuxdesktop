@@ -48,7 +48,6 @@ linux kernel
 
 --
 <span size="x-large">GNU</span>
-
 GNU's Not Unix
 
 --
@@ -85,7 +84,6 @@ Mozilla
 
 -- [images/firefoxos.jpg]
 <span size="x-large">Firefox OS</span>
-
 (era boot to gecko)
 
 --
@@ -145,6 +143,10 @@ Google Chrome
 -- [screenshots/epiphany.png]
 Epiphany
 (padrão do gnome)
+
+-- [images/snowshoe.png] [bottom]
+Snowshoe
+browser desenvolvido pelo <b>INdT</b>
 
 --
 Leitores de Feed
