@@ -168,7 +168,7 @@ XFCE
 --
 <span size="x-large">X</span>
 X Window System (ou X11) é um software e 
-protocolo de rede que é utilizado como
+protocolo de rede utilizado como
 base para interfaces de usuário (GUIs)
 
 -- [images/xserver.png] [fit] [stage-color=#ffffff]
@@ -317,7 +317,7 @@ memória virtual usada para fazer paginação
 
 --
 e ai?
-vamos instalar uma distro?
+escolheu uma distro?
 
 --
 obrigado
