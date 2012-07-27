@@ -1,5 +1,8 @@
 /bin
 koffice
+comunidades / cinlug
+unity
+comandos
 system iii & v family
  - origem do linux
 device drivers
