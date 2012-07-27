@@ -149,10 +149,44 @@ Snowshoe
 browser desenvolvido pelo <b>INdT</b>
 
 --
-Leitores de Feed
+<span size="x-large">ambientes desktop</span>
+tipicamente fornecem ícones, janelas,
+barra de ferramentas, widgets...
 
--- [screenshots/lightread.png]
-Lightread
+-- [images/gnome3.png] [fit]
+gnome 3
+
+-- [images/gnome2.png] [fit]
+gnome 2.30
+
+-- [images/kde.png] [fit]
+KDE Plasma Desktop
+
+-- [images/xfce4.png] [fit]
+XFCE
+
+--
+<span size="x-large">X</span>
+X Window System (ou X11) é um software e 
+protocolo de rede que é utilizado como
+base para interfaces de usuário (GUIs)
+
+-- [images/xserver.png] [fit] [stage-color=#ffffff]
+
+--
+<span size="x-large">gerenciador de janelas</span>
+camada de software entre o X e os
+ambientes desktop, controla como janelas e
+paineis aparecem e como os usuários interagem
+com elas.
+
+-- [images/kwin.jpg]
+<span size="x-large">kWin</span>
+(utilizado pelo KDE)
+
+
+-- [images/fluxbox.png] [fit]
+Fluxbox
 
 --
 Editores de texto
@@ -160,6 +194,10 @@ Editores de texto
 -- [screenshots/gedit.png]
 gedit
 (padrão do gnome)
+
+-- [images/kate.png] [fit]
+kate
+(padrão do KDE)
 
 -- [screenshots/vim.png]
 vim

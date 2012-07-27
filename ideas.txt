@@ -1,9 +1,7 @@
-incluir agenda
+/bin
+koffice
 system iii & v family
  - origem do linux
-sistemas de arquivos
-estrutura de diretórios
-bootloader
 device drivers
 desenvolvimento
  - frameworks de desenvolvimento
