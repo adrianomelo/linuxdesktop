@@ -1,0 +1,39 @@
+#!/usr/bin/pinpoint.sh
+[black] [text-align=center] [fill] [font=Marker Felt 160px] [stage-color=#000000]
+
+-- [images/cprecife.jpg]
+Oficina de Linux Básico
+\#cprecife2
+
+--
+jogos
+aplicativos
+multimedia
+servićos
+
+--
+jogos
+
+-- [screenshots/humblebundle.png]
+<span size="large">humble bundle</span>
+pay what you want and help charity
+
+-- [images/steam-for-linux-sale.png]
+<span size="large">steam</span>
+loja de jogos e aplicativos da valve
+
+-- [screenshots/steamgamelist.png]
+
+--
+<span size="large">faster zoombies!</span>
+a valve postou que o desempenho do
+left 4 dead no linux é superior ao do windows
+
+http://blogs.valvesoftware.com/linux/faster-zombies/
+
+--
+<span size="xx-large">dica</span>
+1. instalar o cliente do steam
+2. instalar o team fortness 2
+
+(suporte oficial para o ubuntu apenas)
