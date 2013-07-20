@@ -220,7 +220,8 @@ Fedora 17
 Ubuntu 12.04 LTS
 
 --
-estrutura de diretórios
+<span size="x-large">Curso - Parte 2</span>
+Estrutura de Diretórios
 
 --
 <span size="x-large">/</span>
@@ -251,4 +252,58 @@ dispositivos de disco, portas seriais, cdrom, webcam, ...
 <span size="x-large">/var</span>
 contém arquivos que mudam constantemente,
 por exemplo, os logs de sistema.
+
+--
+<span size="x-large">Curso Parte 3</span>
+Comandos Avançados
+
+--
+<span size="x-large"> Como editar um arquivo? </span>
+
+nano "nome_do_arquivo"
+
+para salvar, pressione ctrl+o
+para sair, pressione ctrl+x
+
+--
+<span size="x-large">PC tá lento? </span>
+
+top
+
+(se não estiver instalado,
+digite "sudo apt-get install top")
+
+--
+<span size="x-large">tar? tar.gz? tar.bz2 ???</span>
+tar - agregador de arquivos
+gz e bz2 - compactador/descompactador
+
+descompactar um tar.gz : tar -xzvf "arquivo.tar.gz"
+descompactar um tar.bz2 : tar -xjvf "arquivo.tar.bz2"
+
+--
+<span size="x-large"> Procurando Padrões de Texto?</span>
+grep -padrao-
+
+
+--
+Obrigado!
+
+--
+Referências
+
+--
+
+[0] - http://www.droid-life.com/2012/05/07/androids-market-share-balloons-to-61-in-the-u-s-during-q1-ios-drops-to-29/
+
+[1] - http://www.top500.org/list/2012/06/100
+
+[2] - http://www.w3schools.com/browsers/browsers_os.asp
+
+[3] - http://www.pcworld.com/businesscenter/article/151568/ballmer_still_searching_for_an_answer_to_google.html
+
+[4] - http://www.kernel.org/
+
+[5] - http://www.gnu.org/gnu/manifesto.html
+
 
