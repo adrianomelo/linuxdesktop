@@ -275,6 +275,7 @@ digite "sudo apt-get install top")
 
 --
 <span size="x-large">tar? tar.gz? tar.bz2 ???</span>
+
 tar - agregador de arquivos
 gz e bz2 - compactador/descompactador
 
@@ -283,8 +284,25 @@ descompactar um tar.bz2 : tar -xjvf "arquivo.tar.bz2"
 
 --
 <span size="x-large"> Procurando Padrões de Texto?</span>
-grep -padrao-
 
+grep -padrao- -arquivo.txt-
+
+--
+<span size="x-large">Quais programas estão rodando? </span>
+
+ps aux
+
+
+--
+<span size="x-large"> Saída de um programa
+como entrada de outro? </span>
+
+| (pipe)
+
+--
+<span size="x-large"> O programa 'x' está sendo executado? </span>
+
+ps aux | grep nome-do-programa
 
 --
 Obrigado!
