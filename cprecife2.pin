@@ -14,7 +14,7 @@ Engenheiro de software do Instituto Nokia de Tecnologia
 Mestrando em inteligência artificial pelo CIn/UFPE
 
 --
-<span size="xx-large">Wesley Davison</span>
+<span size="xx-large">Wesley Melo</span>
 Pesquisador do GPRT - UFPE
 Mestrando em redes multigigabit pelo CIn/UFPE
 --
@@ -31,6 +31,93 @@ Curso - Parte 3
 Ambientes Gráficos
 Mais Jogos/XBMC e Qt
 Concurso! 
+
+--
+Linux?
+
+--
+Linux é um clone do sistema operacional Unix
+escrito a partir do zero por Linus Torvalds
+com a ajuda de uma equipe de hackers
+através da internet [4].
+
+-- [images/linuxemail.png] [unscaled] [bottom]
+anúncio do linux kernel
+
+-- [images/softwarestack2.png] [unscaled] [top]
+arquitetura
+
+-- [images/linuxkernelmap.png]
+linux kernel
+
+--
+<span size="x-large">GNU</span>
+GNU's Not Unix
+
+--
+sistema operacional que só utiliza programas
+desenvolvidos pela GNU e licenciados sob a GPL [5].
+
+-- [images/gnu.png] [unscaled]
+
+-- [images/gnucmd.png] [unscaled]
+projetos
+
+--
+Quem o utiliza?
+
+--
+Google
+
+-- [images/Google1998.png] [bottom]
+Linux é estratégico para
+o Google desde a sua criação.
+
+-- [images/android.png] [bottom]
+Sistema operacional para celulares e tablets,
+está com 61% do market share nos EU [0].
+
+-- [screenshots/chromiumos.png]
+<span size="x-large">Chromium OS</span>
+
+Sistema operacional baseado no Ubuntu.
+já está no mercado (chromebook).
+
+--
+Mozilla
+
+-- [images/firefoxos.jpg]
+<span size="x-large">Firefox OS</span>
+(era boot to gecko)
+
+--
+Facebook
+
+-- [screenshots/facebook.png]
+Utiliza como base as tecnologias
+linux, apache, PHP e MySQL (LAMP)
+
+--
+IBM
+
+-- [images/sequoia.jpg]
+<span size="x-large">Sequoia, BlueGene/Q</span>
+
+Computador mais rápido do mundo,
+possui 1.572.864 de núcleos! [1]
+
+(91.8% dos 500 melhores
+computadores do mundo usam linux)
+
+--
+<span size="x-large">Uso pessoal</span>
+
+Está com 5% do market share (Junho, 2012) [2]
+
+--
+<span size="x-large">Servidores</span>
+
+Está com 60% do market share (2009) [3]
 
 --
 jogos
