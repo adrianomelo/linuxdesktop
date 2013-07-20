@@ -304,6 +304,35 @@ como entrada de outro? </span>
 
 ps aux | grep nome-do-programa
 
+
+--
+<span size="x-large"> Ordenar as linhas de um arquivo? </span>
+
+sort arquivo.txt
+
+--
+
+<span size="x-large"> Selecionar linhas únicas de um arquivo? </span>
+
+uniq arquivo.txt
+
+(o uniq verifica a unicidade em linhas adjacentes!)
+
+
+--
+<span size="x-large"> Baixar um arquivo da Internet
+pelo Terminal ??? </span>
+
+wget -arquivo.csv-
+
+--
+<span size="x-large"> Selecionar apenas uma coluna de um arquivo? </span>
+
+awk -F';' '{print $coluna}'
+
+--
+Concurso!
+
 --
 Obrigado!
 
