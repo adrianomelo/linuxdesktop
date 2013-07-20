@@ -151,38 +151,104 @@ Curso - Parte 1
 Comandos Básicos
 
 --
-ls
+<span size="x-large">ls</span>
 lista os arquivos em uma pasta
 
 --
-cd
+<span size="x-large">cd</span>
 entra em uma pasta
 
 --
-less
+<span size="x-large">less</span>
 visualiza o conteúdo de um arquivo
 (mesmo que o arquivo não seja apenas texto)
 
 --
-man
+<span size="x-large">man</span>
 abre o manual (ajuda)
 
 --
-su
+<span size="x-large">su</span>
 substitui o usuário do momento
 (root é o usuário padrão)
 
 --
-sudo
+<span size="x-large">sudo</span>
 executa comandos com
 privilégios de admin
 (não é um comando padrão!)
 
 --
-locate
+<span size="x-large">locate</span>
 encontra arquivos por nome
 
 --
-updatedb
+<span size="x-large">updatedb</span>
 atualiza a base do locate
 (precisa ter privilégios de root)
+
+--
+Qual distribuição escolher?
+
+--
+<span size="x-large">distribuição GNU/Linux</span>
+sistema operacional mantido pela comunidade ou
+empresa, utiliza o linux kernel e as ferramentas da GNU
+como softwares básicos.
+
+-- [images/distribution.png] [unscaled]
+
+-- [images/debian.png]
+<span size="x-large">debian</span>
+"The universal operating system"
+
+-- [images/debian2.png] [fit]
+Debian Squeeze
+
+-- [images/fedora.jpg]
+<span size="x-large">fedora</span>
+“freedom . friends . features . first”
+
+-- [images/fedora17.jpg] [fit]
+Fedora 17
+
+-- [images/ubuntu.jpg]
+<span size="x-large">Ubuntu</span>
+"Linux for human beings"
+
+-- [images/ubuntu.png] [fit]
+Ubuntu 12.04 LTS
+
+--
+estrutura de diretórios
+
+--
+<span size="x-large">/</span>
+diretório raiz do sistema de arquivos
+
+--
+<span size="x-large">/home</span>
+diretório que contém os arquivos dos usuários
+
+--
+<span size="x-large">/etc</span>
+diretório com os arquivos de configuração dos programas
+
+--
+<span size="x-large">/usr</span>
+contém diretórios com comandos, bibliotecas, manuais,
+jogos, headers de programas...
+
+--
+<span size="x-large">/boot</span>
+arquivos usados pelo boot loader
+
+--
+<span size="x-large">/dev</span>
+dispositivos de disco, portas seriais, cdrom, webcam, ...
+
+--
+<span size="x-large">/var</span>
+contém arquivos que mudam constantemente,
+por exemplo, os logs de sistema.
+
