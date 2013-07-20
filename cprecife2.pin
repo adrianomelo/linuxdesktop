@@ -145,3 +145,44 @@ http://blogs.valvesoftware.com/linux/faster-zombies/
 2. instalar o team fortness 2
 
 (suporte oficial para o ubuntu apenas)
+
+--
+Curso - Parte 1
+Comandos Básicos
+
+--
+ls
+lista os arquivos em uma pasta
+
+--
+cd
+entra em uma pasta
+
+--
+less
+visualiza o conteúdo de um arquivo
+(mesmo que o arquivo não seja apenas texto)
+
+--
+man
+abre o manual (ajuda)
+
+--
+su
+substitui o usuário do momento
+(root é o usuário padrão)
+
+--
+sudo
+executa comandos com
+privilégios de admin
+(não é um comando padrão!)
+
+--
+locate
+encontra arquivos por nome
+
+--
+updatedb
+atualiza a base do locate
+(precisa ter privilégios de root)
